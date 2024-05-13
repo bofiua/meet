@@ -220,13 +220,12 @@ header > .container {
 
 .decor {
   width: 394px;
-  /* width: 362px; */
   height: 303px;
 }
 .decor__left,
 .decor__right {
   background-repeat: no-repeat;
-  background-size: 362px auto;
+  background-size: 394px auto;
 }
 .decor__left {
   order: 1;
@@ -246,7 +245,7 @@ header > .container {
   align-items: center;
   justify-content: flex-start;
   row-gap: 34px;
-  flex: 0 1 540px;
+  flex: 0 0 540px;
   order: 2;
   padding-top: 46px;
   text-align: center;
